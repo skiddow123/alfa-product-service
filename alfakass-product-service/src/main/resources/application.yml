@@ -1,0 +1,7 @@
+server:
+  port: 7070
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://alfakass:ZThOZpYjy2SQ5Ron@cluster0.gh7njfj.mongodb.net/?retryWrites=true&w=majority
+      database: alfakass-product-service
